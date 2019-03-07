@@ -7,6 +7,7 @@
 /**
  * Image filtering and processing
  *
+
  * Authors:
  *  UG Marco Antônio Gomes
  *  UG Júlio César Machado Álvares
